@@ -25,7 +25,7 @@ public class dataTypes {
         boolean b1 = s2.getClass().equals(Integer.class);
         System.out.println(b1);
         final dataTypes d = new dataTypes();
-
+        //master version
         test t1 = new test();
     }
 }
